@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xOI82870wyUijwjUuMQgEV8Qw3kCcQJ0mWlnQq0XaGlR1KTNi+TVZT6E18OAO5Rn2FWOdDYb7WF9Ls44PDLu6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rosh1k\\CSharp_Bootcamp\\day03\\d03\\d03\\d03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rosh1k\\.nuget\\packages\\yamldotnet\\13.0.2\\yamldotnet.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
