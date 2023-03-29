@@ -1,5 +1,7 @@
 # Day 01
 
+## Note
+**Requires .NET 7**
 ## Run
 ```dotnet run```
 
