@@ -1,5 +1,4 @@
-# Day 01
-
+# Day 01 - Store simulation
 ## Note
 **Requires .NET 7**
 ## Run
