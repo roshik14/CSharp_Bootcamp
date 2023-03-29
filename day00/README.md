@@ -4,7 +4,7 @@
 **Requires .NET 7.0**
 
 ## ex00 - Credit Calculator
-## Run
+### Run
 ```dotnet run {amount} {rate} {term}```
 
 Example:
@@ -12,6 +12,9 @@ Example:
 ![](img/d00_example.png)
 
 ## ex01 - Levenshtein distance
+### Run
+```dotnet run```
+
 Example:
 
 ![](img/d01_example.png)
