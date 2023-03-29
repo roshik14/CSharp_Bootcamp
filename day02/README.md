@@ -1,5 +1,6 @@
 # Day02
-
+## Note
+**Requires .NET 6**
 ## ex00 - Currency converter
 ### Run
 ```dotnet run {amount} {path}```
