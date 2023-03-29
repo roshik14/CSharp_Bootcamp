@@ -1,4 +1,4 @@
-Day04 - New York Time Archives
+# Day04 - New York Time Archives
 
 ## Note
 **Requires .NET 6**
