@@ -1,5 +1,8 @@
 # Day00
 
+## Note
+**Requires .NET 7.0**
+
 ## ex00 - Credit Calculator
 Example:
 
